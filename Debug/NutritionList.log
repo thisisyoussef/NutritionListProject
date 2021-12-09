@@ -1,0 +1,3 @@
+﻿  NutritionList.cpp
+C:\Users\youss\source\repos\NutritionList\NutritionList\NutritionList.cpp(15,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  NutritionList.vcxproj -> C:\Users\youss\source\repos\NutritionList\Debug\NutritionList.exe
